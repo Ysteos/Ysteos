@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ysteos
 - 👀 I’m interested in developping games
-- 🌱 I’m currently learning C# and Unity
-- 📫 How to reach me j.sallot@student.isartdigital.com
+- 🌞 I’m currently working with Unreal / C# and Unity
+- 📫 How to reach me jordan.slt24@gmail.com
 
 <!---
 Ysteos/Ysteos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
